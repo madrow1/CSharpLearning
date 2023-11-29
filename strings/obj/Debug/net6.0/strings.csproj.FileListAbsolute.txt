@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/strings/bin/Debug/net6.0/strings
+/Users/rpitt/CSharp/strings/bin/Debug/net6.0/strings.deps.json
+/Users/rpitt/CSharp/strings/bin/Debug/net6.0/strings.runtimeconfig.json
+/Users/rpitt/CSharp/strings/bin/Debug/net6.0/strings.dll
+/Users/rpitt/CSharp/strings/bin/Debug/net6.0/strings.pdb
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.AssemblyInfo.cs
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.dll
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/refint/strings.dll
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.pdb
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/strings.genruntimeconfig.cache
+/Users/rpitt/CSharp/strings/obj/Debug/net6.0/ref/strings.dll
