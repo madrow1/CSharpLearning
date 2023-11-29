@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/variable_types/bin/Debug/net6.0/variable_types
+/Users/rpitt/CSharp/variable_types/bin/Debug/net6.0/variable_types.deps.json
+/Users/rpitt/CSharp/variable_types/bin/Debug/net6.0/variable_types.runtimeconfig.json
+/Users/rpitt/CSharp/variable_types/bin/Debug/net6.0/variable_types.dll
+/Users/rpitt/CSharp/variable_types/bin/Debug/net6.0/variable_types.pdb
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.AssemblyInfo.cs
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.dll
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/refint/variable_types.dll
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.pdb
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/variable_types.genruntimeconfig.cache
+/Users/rpitt/CSharp/variable_types/obj/Debug/net6.0/ref/variable_types.dll
