@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.AssemblyInfo.cs
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/numbersAndDates/bin/Debug/net6.0/numbersAndDates
+/Users/rpitt/CSharp/numbersAndDates/bin/Debug/net6.0/numbersAndDates.deps.json
+/Users/rpitt/CSharp/numbersAndDates/bin/Debug/net6.0/numbersAndDates.runtimeconfig.json
+/Users/rpitt/CSharp/numbersAndDates/bin/Debug/net6.0/numbersAndDates.dll
+/Users/rpitt/CSharp/numbersAndDates/bin/Debug/net6.0/numbersAndDates.pdb
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.dll
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/refint/numbersAndDates.dll
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.pdb
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/numbersAndDates.genruntimeconfig.cache
+/Users/rpitt/CSharp/numbersAndDates/obj/Debug/net6.0/ref/numbersAndDates.dll
