@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.AssemblyInfo.cs
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/dateTimeChallenge/bin/Debug/net6.0/dateTimeChallenge
+/Users/rpitt/CSharp/dateTimeChallenge/bin/Debug/net6.0/dateTimeChallenge.deps.json
+/Users/rpitt/CSharp/dateTimeChallenge/bin/Debug/net6.0/dateTimeChallenge.runtimeconfig.json
+/Users/rpitt/CSharp/dateTimeChallenge/bin/Debug/net6.0/dateTimeChallenge.dll
+/Users/rpitt/CSharp/dateTimeChallenge/bin/Debug/net6.0/dateTimeChallenge.pdb
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.dll
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/refint/dateTimeChallenge.dll
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.pdb
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/dateTimeChallenge.genruntimeconfig.cache
+/Users/rpitt/CSharp/dateTimeChallenge/obj/Debug/net6.0/ref/dateTimeChallenge.dll

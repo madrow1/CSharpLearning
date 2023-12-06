@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.AssemblyInfo.cs
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/FormatDateTime/bin/Debug/net6.0/FormatDateTime
+/Users/rpitt/CSharp/FormatDateTime/bin/Debug/net6.0/FormatDateTime.deps.json
+/Users/rpitt/CSharp/FormatDateTime/bin/Debug/net6.0/FormatDateTime.runtimeconfig.json
+/Users/rpitt/CSharp/FormatDateTime/bin/Debug/net6.0/FormatDateTime.dll
+/Users/rpitt/CSharp/FormatDateTime/bin/Debug/net6.0/FormatDateTime.pdb
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.dll
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/refint/FormatDateTime.dll
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.pdb
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/FormatDateTime.genruntimeconfig.cache
+/Users/rpitt/CSharp/FormatDateTime/obj/Debug/net6.0/ref/FormatDateTime.dll

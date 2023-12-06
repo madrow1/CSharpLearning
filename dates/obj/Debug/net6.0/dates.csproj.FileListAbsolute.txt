@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/dates/bin/Debug/net6.0/dates
+/Users/rpitt/CSharp/dates/bin/Debug/net6.0/dates.deps.json
+/Users/rpitt/CSharp/dates/bin/Debug/net6.0/dates.runtimeconfig.json
+/Users/rpitt/CSharp/dates/bin/Debug/net6.0/dates.dll
+/Users/rpitt/CSharp/dates/bin/Debug/net6.0/dates.pdb
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.AssemblyInfo.cs
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.dll
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/refint/dates.dll
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.pdb
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/dates.genruntimeconfig.cache
+/Users/rpitt/CSharp/dates/obj/Debug/net6.0/ref/dates.dll
