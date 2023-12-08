@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.AssemblyInfo.cs
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/fileDirectoryChallend/bin/Debug/net6.0/fileDirectoryChallend
+/Users/rpitt/CSharp/fileDirectoryChallend/bin/Debug/net6.0/fileDirectoryChallend.deps.json
+/Users/rpitt/CSharp/fileDirectoryChallend/bin/Debug/net6.0/fileDirectoryChallend.runtimeconfig.json
+/Users/rpitt/CSharp/fileDirectoryChallend/bin/Debug/net6.0/fileDirectoryChallend.dll
+/Users/rpitt/CSharp/fileDirectoryChallend/bin/Debug/net6.0/fileDirectoryChallend.pdb
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.dll
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/refint/fileDirectoryChallend.dll
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.pdb
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/fileDirectoryChallend.genruntimeconfig.cache
+/Users/rpitt/CSharp/fileDirectoryChallend/obj/Debug/net6.0/ref/fileDirectoryChallend.dll

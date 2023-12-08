@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.AssemblyInfo.cs
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/files/bin/Debug/net6.0/files
+/Users/rpitt/CSharp/files/bin/Debug/net6.0/files.deps.json
+/Users/rpitt/CSharp/files/bin/Debug/net6.0/files.runtimeconfig.json
+/Users/rpitt/CSharp/files/bin/Debug/net6.0/files.dll
+/Users/rpitt/CSharp/files/bin/Debug/net6.0/files.pdb
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.dll
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/refint/files.dll
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.pdb
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/files.genruntimeconfig.cache
+/Users/rpitt/CSharp/files/obj/Debug/net6.0/ref/files.dll
