@@ -1,0 +1,15 @@
+/Users/rpitt/CSharp/regex/bin/Debug/net6.0/regex
+/Users/rpitt/CSharp/regex/bin/Debug/net6.0/regex.deps.json
+/Users/rpitt/CSharp/regex/bin/Debug/net6.0/regex.runtimeconfig.json
+/Users/rpitt/CSharp/regex/bin/Debug/net6.0/regex.dll
+/Users/rpitt/CSharp/regex/bin/Debug/net6.0/regex.pdb
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.csproj.AssemblyReference.cache
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.AssemblyInfoInputs.cache
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.AssemblyInfo.cs
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.csproj.CoreCompileInputs.cache
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.dll
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/refint/regex.dll
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.pdb
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/regex.genruntimeconfig.cache
+/Users/rpitt/CSharp/regex/obj/Debug/net6.0/ref/regex.dll
