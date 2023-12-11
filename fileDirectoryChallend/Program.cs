@@ -13,6 +13,8 @@
         foreach (string f in files)
         {
             totalFiles++;
+            Console.WriteLine(File.GetAttributes(filename));
+            if ()
         }
 
         if (File.Exists("results.txt"))
